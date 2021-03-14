@@ -1,0 +1,7 @@
+C:\Users\MASEGO\OneDrive - Varsity College\Varsity\Second Year\Semester 1\Programming [PROG6221]\Work\Practise\My First Program\FistProgram\FistProgram\obj\Debug\FistProgram.csprojAssemblyReference.cache
+C:\Users\MASEGO\OneDrive - Varsity College\Varsity\Second Year\Semester 1\Programming [PROG6221]\Work\Practise\My First Program\FistProgram\FistProgram\obj\Debug\FistProgram.csproj.CoreCompileInputs.cache
+C:\Users\MASEGO\OneDrive - Varsity College\Varsity\Second Year\Semester 1\Programming [PROG6221]\Work\Practise\My First Program\FistProgram\FistProgram\bin\Debug\FistProgram.exe.config
+C:\Users\MASEGO\OneDrive - Varsity College\Varsity\Second Year\Semester 1\Programming [PROG6221]\Work\Practise\My First Program\FistProgram\FistProgram\bin\Debug\FistProgram.exe
+C:\Users\MASEGO\OneDrive - Varsity College\Varsity\Second Year\Semester 1\Programming [PROG6221]\Work\Practise\My First Program\FistProgram\FistProgram\bin\Debug\FistProgram.pdb
+C:\Users\MASEGO\OneDrive - Varsity College\Varsity\Second Year\Semester 1\Programming [PROG6221]\Work\Practise\My First Program\FistProgram\FistProgram\obj\Debug\FistProgram.exe
+C:\Users\MASEGO\OneDrive - Varsity College\Varsity\Second Year\Semester 1\Programming [PROG6221]\Work\Practise\My First Program\FistProgram\FistProgram\obj\Debug\FistProgram.pdb
