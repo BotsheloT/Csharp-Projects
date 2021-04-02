@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Masego\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Masego\\.nuget\\packages"
+    ]
+  }
+}
